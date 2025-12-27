@@ -1,4 +1,4 @@
-/**
+खानाा
  * Group Name Locker Bot (Fast + Instant Reset)
  * Developer: Axshu 🩷
  * Description: This bot locks the group name and resets it instantly if changed.
@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1982314288994491";        // Group ka ID
-const LOCKED_GROUP_NAME = "संजू की मां का चुदाई खाना 🤡👈";     // Locked name
+const LOCKED_GROUP_NAME =KUNWAR URF AYAN KI MAA CHODNE WALA AMIT HERE 🙈 🤡👈";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
